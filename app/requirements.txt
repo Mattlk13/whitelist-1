@@ -10,7 +10,7 @@ pytest-flask==0.10.0
 pytest-xdist==1.20.1
 pytest==3.3.1
 raven[flask]==6.4.0
-requests==2.18.4
+requests==2.31.0
 teamcity-messages==1.21
 voluptuous==0.10.5
 uwsgi==2.0.15
