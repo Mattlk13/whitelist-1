@@ -1,6 +1,6 @@
 blinker==1.4
-flask==0.12.2
-gevent==1.2.2
+flask==2.2.5
+gevent==23.9.0
 itsdangerous==0.24
 mongoengine==0.15.0
 mongomock==3.8.0
@@ -10,7 +10,7 @@ pytest-flask==0.10.0
 pytest-xdist==1.20.1
 pytest==3.3.1
 raven[flask]==6.4.0
-requests==2.18.4
+requests==2.32.4
 teamcity-messages==1.21
 voluptuous==0.10.5
 uwsgi==2.0.15
